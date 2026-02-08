@@ -1,2 +1,2 @@
-# Gerenciador de Pedidos de Lanche - FrontEnd
+# Gerenciador de Pedidos de uma Lanchonete - FrontEnd
 

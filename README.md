@@ -1,2 +1,2 @@
-# 002-Gerenciador-de-Pedidos-de-Lanche-FE
+# Gerenciador de Pedidos de Lanche - FrontEnd
 
